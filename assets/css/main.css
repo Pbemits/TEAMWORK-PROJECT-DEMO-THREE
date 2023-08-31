@@ -1,0 +1,46 @@
+/* !: CODE ADAM HOANG */
+
+#content-section-three {
+    margin-top: 100px;
+    padding: 0 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 127px;
+    margin-right: 127px; */
+
+}
+
+#content-section-three
+.content-wrapper-text_one {
+    margin-right: 151px;
+}
+
+#content-section-three 
+.content-wrapper-text_one
+.content-text-heading {
+    font-size: 40px;
+    line-height: 48px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: var(--text-color);
+}
+
+#content-section-three
+.content-wrapper-text_one
+.content-text-description {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400;
+    color: var(--text-color);
+}
+
+#content-section-three
+.content-wrapper-image_two
+.content-img-section-three {
+    width: 525px;
+    /* margin-left: 155px; */
+    height: 393px;
+}
+
+/* !: CODE ADAM HOANG */
