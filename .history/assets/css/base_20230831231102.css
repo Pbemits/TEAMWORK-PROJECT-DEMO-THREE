@@ -1,9 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     font-family: "Avenir Next", Helvetica, Arial, sans-serif;
     background-color: #ffffff;
@@ -12,11 +11,8 @@ body {
     --text-color: #191919;
 }
 
-<<<<<<< HEAD
 /* COMMON */
 .row-half {
     width: 50%;
 }
 /* END COMMON */
-=======
->>>>>>> content-section-three

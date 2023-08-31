@@ -1,0 +1,189 @@
+/* !CODE CUA MIN MIN */
+/* *BEGIN CONTENT-SECTION-ONE */
+/* ?WRAPPER-CONTENT-ONE */
+#content-section-one
+.wrapper-content-one
+.content-text-header{
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0;
+    font-weight: 500;
+    color: var(--text-color);
+    margin-bottom: 20px;
+}
+#content-section-one
+.wrapper-content-one
+.content-text-paragraph{
+    font-size: 20px;
+    line-height: 32px;
+    color: var(--text-color);
+    font-weight: 200;
+}
+.wrapper-content-one{
+    position: relative;
+    top: 0;
+    left: 23px;
+}
+/* ?WRAPPER-CONTENT-TWO  */
+#content-section-one
+.wrapper-content-two
+.content-text-img{
+    position: relative;
+    top: 0;
+    right: 23px;
+    width: 525px;
+    height: 448px;
+}
+/**CONTENT-SECTION-ONE*/
+#content-section-one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+/* !CODE CUA MIN MIN */
+/* !: XUAN */
+.content-section-two {
+    display: flex;
+    margin: 100px 151px 0px 151px;
+    padding: 0px 60px;
+}
+
+.content-section-two .section-img {
+    margin-right: 80px;
+}
+
+.content-section-two .section-img-suggested {
+    width: 100%;
+    text-align: center;
+}
+
+.content-section-two .section-img-suggested img {
+    width: 100%; 
+}
+
+.content-section-two .section-text {
+    padding: 120px 0px 0px 60px;
+   
+}
+
+.content-section-two .section-text .section-text-one h1{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0;
+    margin-bottom: 20px;
+}
+
+.content-section-two .section-text .section-text-two p {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 500;
+    letter-spacing: 0;
+}
+/* !: XUAN */
+/* !: CODE ADAM HOANG */
+
+#content-section-three {
+    margin-top: 100px;
+    padding: 0 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 127px;
+    margin-right: 127px; */
+
+}
+
+#content-section-three
+.content-wrapper-text_one {
+    margin-right: 151px;
+}
+
+#content-section-three 
+.content-wrapper-text_one
+.content-text-heading {
+    font-size: 40px;
+    line-height: 48px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: var(--text-color);
+}
+
+#content-section-three
+.content-wrapper-text_one
+.content-text-description {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400;
+    color: var(--text-color);
+}
+
+#content-section-three
+.content-wrapper-image_two
+.content-img-section-three {
+    width: 525px;
+    /* margin-left: 155px; */
+    height: 393px;
+}
+
+/* !: CODE ADAM HOANG */
+/* !: SOURCE CODE PBEMITS */
+/* *: CONTENT SECTION FOUR */
+#content-main
+#content-section-four {
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#content-section-four
+.content-wrapper-element-one {
+    margin-right: 27px;
+}
+#content-section-four
+.content-wrapper-element-two {
+    margin-left: 151px;
+    position: relative;
+    left: -27px;
+}
+/* ?: CONTENT WRAPPER ELEMENT ONE */
+/* &: WRAPPER ELEMENT IMAGE */
+#content-section-four
+.content-wrapper-element-one
+.wrapper-element-image 
+.wrapper-element-img {
+    width: 525px;
+    height: 472px;
+}
+/* ?: CONTENT WRAPPER ELEMENT TWO */
+/* &: WRAPPER ELEMENT HEADING */
+#content-section-four
+.content-wrapper-element-two
+.wrapper-element-texts
+.wrapper-element-heading {
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0;
+    font-weight: 500;
+    color: var(--text-color);
+    margin-bottom: 20px;
+}
+/* &: WRAPPER ELEMENT PARAGRAH */
+#content-section-four
+.content-wrapper-element-two
+.wrapper-element-texts
+.wrapper-element-paragrah {
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0;
+    font-weight: 50;
+    color: var(--text-color);
+}
+#content-section-four
+.content-wrapper-element-two
+.wrapper-element-texts
+.wrapper-element-paragrah a {
+color: var(--text-color);
+}
+/* !: SOURCE CODE PBEMITS */

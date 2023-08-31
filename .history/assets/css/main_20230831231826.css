@@ -1,0 +1,18 @@
+.content-section-two {
+    display: flex;
+}
+
+.content-section-two .section-img-suggested {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-section-two .section-img-suggested img {
+    width: 60%; 
+}
+
+
+
+
+
