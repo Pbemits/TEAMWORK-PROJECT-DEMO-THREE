@@ -18,8 +18,8 @@
 }
 
 .content-section-two .section-text {
-    padding: 120px 0px 0px 60px;
-   
+    padding-top: 100px;
+    margin-left: 60px;
 }
 
 .content-section-two .section-text .section-text-one h1{
@@ -35,6 +35,7 @@
     line-height: 32px;
     font-weight: 500;
     letter-spacing: 0;
+    text-align:initial;
 }
 
 

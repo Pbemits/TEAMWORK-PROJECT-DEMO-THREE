@@ -5,7 +5,7 @@
 }
 
 .content-section-two .section-img {
-    margin-right: 80px;
+    margin-right: 20px;
 }
 
 .content-section-two .section-img-suggested {
@@ -18,8 +18,8 @@
 }
 
 .content-section-two .section-text {
-    padding: 120px 0px 0px 60px;
-   
+    padding-top: 100px;
+    margin-left: 80px;
 }
 
 .content-section-two .section-text .section-text-one h1{

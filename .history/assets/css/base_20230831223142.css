@@ -10,9 +10,3 @@ body {
 :root {
     --text-color: #191919;
 }
-
-/* COMMON */
-.row-half {
-    width: 50%;
-}
-/* END COMMON */

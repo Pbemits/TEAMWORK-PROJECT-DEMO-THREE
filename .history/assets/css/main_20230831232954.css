@@ -4,22 +4,14 @@
     padding: 0px 60px;
 }
 
-.content-section-two .section-img {
-    margin-right: 80px;
-}
-
 .content-section-two .section-img-suggested {
     width: 100%;
     text-align: center;
+    margin-right: 80px;
 }
 
 .content-section-two .section-img-suggested img {
     width: 100%; 
-}
-
-.content-section-two .section-text {
-    padding: 120px 0px 0px 60px;
-   
 }
 
 .content-section-two .section-text .section-text-one h1{
@@ -33,7 +25,7 @@
 .content-section-two .section-text .section-text-two p {
     font-size: 20px;
     line-height: 32px;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: 0;
 }
 
