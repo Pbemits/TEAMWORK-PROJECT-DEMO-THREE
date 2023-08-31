@@ -1,0 +1,23 @@
+.content-section-two {
+    display: flex;
+    margin: 100px 151px 0px 151px;
+    padding: 0px 60px;
+}
+
+.content-section-two .section-img-suggested {
+    width: 100%;
+    text-align: center;
+}
+
+.content-section-two .section-img-suggested img {
+    width: 100%; 
+}
+
+.content-section-two .section-text .section-text-one p{
+    font-weight: 400;
+}
+
+
+
+
+

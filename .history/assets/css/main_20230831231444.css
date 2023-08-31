@@ -1,0 +1,17 @@
+.content-section-two {
+    display: flex;
+}
+
+.content-section-two .section-img-suggested {
+    width: 100%;
+}
+
+.content-section-two .section-img-suggested img {
+    width: 50%;
+    align-items: center;
+}
+
+
+
+
+

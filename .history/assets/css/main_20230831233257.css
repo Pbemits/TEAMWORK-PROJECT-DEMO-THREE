@@ -1,0 +1,43 @@
+.content-section-two {
+    display: flex;
+    margin: 100px 151px 0px 151px;
+    padding: 0px 60px;
+}
+
+.content-section-two .section-img {
+    margin-right: 80px;
+}
+
+.content-section-two .section-img-suggested {
+    width: 100%;
+    text-align: center;
+}
+
+.content-section-two .section-img-suggested img {
+    width: 100%; 
+}
+
+.content-section-two .section-text {
+    padding-top: 100px;
+    margin-left: 80px;
+}
+
+.content-section-two .section-text .section-text-one h1{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0;
+    margin-bottom: 20px;
+}
+
+.content-section-two .section-text .section-text-two p {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+
+
+
+
