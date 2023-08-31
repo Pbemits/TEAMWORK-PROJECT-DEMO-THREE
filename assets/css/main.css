@@ -1,3 +1,47 @@
+/* !CODE CUA MIN MIN */
+/* *BEGIN CONTENT-SECTION-ONE */
+/* ?WRAPPER-CONTENT-ONE */
+#content-section-one
+.wrapper-content-one
+.content-text-header{
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0;
+    font-weight: 500;
+    color: var(--text-color);
+    margin-bottom: 20px;
+}
+#content-section-one
+.wrapper-content-one
+.content-text-paragraph{
+    font-size: 20px;
+    line-height: 32px;
+    color: var(--text-color);
+    font-weight: 200;
+}
+.wrapper-content-one{
+    position: relative;
+    top: 0;
+    left: 23px;
+}
+/* ?WRAPPER-CONTENT-TWO  */
+#content-section-one
+.wrapper-content-two
+.content-text-img{
+    position: relative;
+    top: 0;
+    right: 23px;
+    width: 525px;
+    height: 448px;
+}
+/**CONTENT-SECTION-ONE*/
+#content-section-one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+/* !CODE CUA MIN MIN */
 /* !: CODE ADAM HOANG */
 
 #content-section-three {
